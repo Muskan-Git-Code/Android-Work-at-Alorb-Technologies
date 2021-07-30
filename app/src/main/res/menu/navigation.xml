@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+            android:id="@+id/nf1"
+            android:icon="@drawable/ic_baseline_house_24"
+            android:title="Home" />
+        <item
+            android:id="@+id/nf2"
+            android:icon="@drawable/ic_baseline_dashboard_24"
+            android:title="Project" />
+        <item
+            android:id="@+id/nf3"
+            android:icon="@drawable/ic_baseline_add_circle_outline_24"
+            android:title="New Task" />
+        <item
+            android:id="@+id/nf4"
+            android:icon="@drawable/ic_baseline_task_alt_24"
+            android:title="Task" />
+        <item
+            android:id="@+id/nf5"
+            android:icon="@android:drawable/sym_action_chat"
+            android:title="Chat" />
+
+</menu>
